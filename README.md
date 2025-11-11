@@ -1,2 +1,8 @@
-# Sport-Activities
-📊 Monthly Calories Burned (2020–2025) — Visualize your Garmin activity trends with a stacked square bar chart. Each month shows total calories burned, stacked by year, revealing seasonal training patterns and long-term fitness progression.
+🏃‍♂️ Garmin Fitness Insights Dashboard
+
+A collection of Python + Matplotlib + Pandas scripts for visualizing and analyzing your Garmin activity data.
+These notebooks turn years of training logs into meaningful, creative insights about performance, recovery, and progress.
+
+📂 Project Overview
+
+This repository includes multiple analysis notebooks designed for Garmin CSV exports from Garmin Connect.
